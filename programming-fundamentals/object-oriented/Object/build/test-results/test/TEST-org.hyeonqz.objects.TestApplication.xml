@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyeonqz.objects.TestApplication" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-03T14:30:25" hostname="jinhyeongyuui-MacBookAir.local" time="0.012">
+  <properties/>
+  <testcase name="일반 테스트" classname="org.hyeonqz.objects.TestApplication" time="0.012"/>
+  <system-out><![CDATA[테스트 완성
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

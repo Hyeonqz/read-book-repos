@@ -9,7 +9,7 @@ public class Movie {
     private List<DiscountCondtion> discountCondtions;
 
     private MovieType movieType;
-    private Money discoutnAmount;
+    private Money discountAmount;
     private double discountPercent;
 
     public String getTitle () {
